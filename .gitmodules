@@ -1,0 +1,3 @@
+[submodule "aws-tips"]
+	path = aws-tips
+	url = https://github.com/btd4088/aws-tips.git
